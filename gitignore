@@ -1,0 +1,17 @@
+
+node_modules/
+.env
+.env.*
+!.env.example
+
+*.log
+*.jar
+
+build/
+.gradle/
+
+.DS_Store
+Thumbs.db
+
+.idea/
+.vscode/
